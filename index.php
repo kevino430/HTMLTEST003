@@ -1,7 +1,3 @@
-<?php 
-// alert message
-echo "<script>alert('this is elidot cloud first cloud Run');</script>";
-?>
 <!DOCTYPE html>
 <html lang="en">
 
